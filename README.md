@@ -1,1 +1,1 @@
-Higher level programming languages being started! Starting to learn python language then otheranguages will follow.
+Higher level programming languages being started! Starting to learn python language then other languages will follow.
