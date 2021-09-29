@@ -1,0 +1,1 @@
+Learning classes and objects in Python! Getting to know attributes of classes and objects. Those attributes can be private, protected or public!
