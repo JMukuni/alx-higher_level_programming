@@ -1,0 +1,1 @@
+Getting to know errors and exceptions in python!
