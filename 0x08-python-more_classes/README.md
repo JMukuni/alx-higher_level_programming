@@ -1,0 +1,1 @@
+Learning python classes, methods, properties, attributes, instances, str , repr and __init__!
